@@ -1,0 +1,42 @@
+[debug] [2019-09-22T19:54:48.492Z] ----------------------------------------------------------------------
+[debug] [2019-09-22T19:54:48.511Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\michal\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2019-09-22T19:54:48.513Z] CLI Version:   7.3.2
+[debug] [2019-09-22T19:54:48.513Z] Platform:      win32
+[debug] [2019-09-22T19:54:48.513Z] Node Version:  v8.11.1
+[debug] [2019-09-22T19:54:48.516Z] Time:          Sun Sep 22 2019 21:54:48 GMT+0200 (Środkowoeuropejski czas letni)
+[debug] [2019-09-22T19:54:48.517Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-09-22T19:54:48.551Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-09-22T19:54:48.553Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\szkolenie_pwa\calc
+
+[debug] [2019-09-22T19:56:00.762Z] ----------------------------------------------------------------------
+[debug] [2019-09-22T19:56:00.774Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\michal\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2019-09-22T19:56:00.775Z] CLI Version:   7.3.2
+[debug] [2019-09-22T19:56:00.775Z] Platform:      win32
+[debug] [2019-09-22T19:56:00.775Z] Node Version:  v8.11.1
+[debug] [2019-09-22T19:56:00.778Z] Time:          Sun Sep 22 2019 21:56:00 GMT+0200 (Środkowoeuropejski czas letni)
+[debug] [2019-09-22T19:56:00.778Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-09-22T19:56:00.806Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-09-22T19:56:00.808Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\szkolenie_pwa\calc
+
